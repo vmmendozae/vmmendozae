@@ -31,8 +31,8 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vmmendozae&show_icons=true&hide_border=true&bg_color=FEF3C7&title_color=9A3412&icon_color=C2410C&text_color=78350F&count_private=true&include_all_commits=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmmendozae&layout=compact&hide_border=true&bg_color=FEF3C7&title_color=9A3412&text_color=78350F&langs_count=6" alt="Lenguajes" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmmendozae&theme=gruvbox" alt="Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmmendozae&theme=gruvbox" alt="Lenguajes" />
 </p>
 
 <p align="center">
@@ -50,6 +50,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victormendozae/"><img src="https://img.shields.io/badge/LinkedIn-victormendozae-B45309?style=for-the-badge&logo=linkedin&logoColor=FEF3C7" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Discord-vito.mdz-9A3412?style=for-the-badge&logo=discord&logoColor=FEF3C7" alt="Discord: vito.mdz" />
 </p>
 
 <div align="center">
