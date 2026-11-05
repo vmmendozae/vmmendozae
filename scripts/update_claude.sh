@@ -6,4 +6,6 @@ cd "$(dirname "$0")/.."
 git pull -q --rebase
 /usr/bin/python3 -I scripts/claude_stats.py "$PWD"
 git add claude.svg data/claude-usage.json
-git diff --cached --quiet || { git commit -qm "Actualizar uso de Claude Code" && git push -q; }
+git diff --cached --quiet || git commit -qm "Actualizar uso de Claude Code"
+# GitHub a veces rechaza el push con un error pasajero: reintenta una vez.
+git push -q || { sleep 30; git pull -q --rebase; git push -q; }
