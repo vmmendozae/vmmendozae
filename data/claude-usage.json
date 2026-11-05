@@ -384,10 +384,10 @@
  "2026-11-05": {
   "models": {
    "claude-opus-5-5": {
-    "input": 267,
-    "output": 69202,
-    "cache_write": 804301,
-    "cache_read": 11477257
+    "input": 275,
+    "output": 71928,
+    "cache_write": 808001,
+    "cache_read": 12073594
    },
    "claude-sonnet-5-5": {
     "input": 2,
