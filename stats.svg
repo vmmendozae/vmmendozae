@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="799" height="209" rx="6" fill="#FEF3C7" stroke="#D6A75C"/>
+<line x1="400" y1="24" x2="400" y2="186" stroke="#D6A75C"/>
+<text x="28" y="40" font-size="18" font-weight="700" fill="#9A3412">Actividad</text>
+<text x="28" y="74" font-size="14" fill="#92400E">Commits</text>
+<text x="372" y="74" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">1058</text>
+<text x="28" y="100" font-size="14" fill="#92400E">Pull requests</text>
+<text x="372" y="100" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">149</text>
+<text x="28" y="126" font-size="14" fill="#92400E">Revisiones de PR</text>
+<text x="372" y="126" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">3</text>
+<text x="28" y="152" font-size="14" fill="#92400E">Issues</text>
+<text x="372" y="152" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">0</text>
+<text x="28" y="178" font-size="14" fill="#92400E">Repos con commits</text>
+<text x="372" y="178" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">22 (20 privados)</text>
+<text x="428" y="40" font-size="18" font-weight="700" fill="#9A3412">Lenguajes</text>
+<rect x="428.0" y="58" width="141.0" height="10" fill="#3178c6"/>
+<rect x="569.0" y="58" width="137.7" height="10" fill="#41b883"/>
+<rect x="706.6" y="58" width="26.5" height="10" fill="#3572A5"/>
+<rect x="733.1" y="58" width="24.4" height="10" fill="#00B4AB"/>
+<rect x="757.5" y="58" width="14.2" height="10" fill="#f1e05a"/>
+<rect x="771.7" y="58" width="0.3" height="10" fill="#ff3e00"/>
+<rect x="428" y="58" width="344" height="10" rx="5" fill="none" stroke="#FEF3C7" stroke-width="2"/>
+<circle cx="433" cy="91" r="5" fill="#3178c6"/>
+<text x="444" y="96" font-size="14" fill="#78350F">TypeScript <tspan fill="#92400E">41.0%</tspan></text>
+<circle cx="609" cy="91" r="5" fill="#41b883"/>
+<text x="620" y="96" font-size="14" fill="#78350F">Vue <tspan fill="#92400E">40.0%</tspan></text>
+<circle cx="433" cy="121" r="5" fill="#3572A5"/>
+<text x="444" y="126" font-size="14" fill="#78350F">Python <tspan fill="#92400E">7.7%</tspan></text>
+<circle cx="609" cy="121" r="5" fill="#00B4AB"/>
+<text x="620" y="126" font-size="14" fill="#78350F">Dart <tspan fill="#92400E">7.1%</tspan></text>
+<circle cx="433" cy="151" r="5" fill="#f1e05a"/>
+<text x="444" y="156" font-size="14" fill="#78350F">JavaScript <tspan fill="#92400E">4.1%</tspan></text>
+<circle cx="609" cy="151" r="5" fill="#ff3e00"/>
+<text x="620" y="156" font-size="14" fill="#78350F">Svelte <tspan fill="#92400E">0.1%</tspan></text>
+<text x="784" y="198" font-size="10" fill="#92400E" text-anchor="end">Incluye repos privados · actualizado 2026-11-05</text>
+</svg>

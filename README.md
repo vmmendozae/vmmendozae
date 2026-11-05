@@ -31,8 +31,7 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vmmendozae&theme=gruvbox" alt="Stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vmmendozae&theme=gruvbox" alt="Lenguajes" />
+  <img src="./stats.svg" alt="Estadísticas, incluye repos privados" />
 </p>
 
 <p align="center">

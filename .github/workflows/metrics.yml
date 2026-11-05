@@ -9,22 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  metrics:
+  stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.34
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          filename: metrics.svg
-          token: ${{ secrets.GH_STATS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "Actualizar estadísticas del perfil"
-          user: vmmendozae
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: America/Bogota
-          config_display: large
-          repositories_affiliations: owner, collaborator, organization_member
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, shell, dockerfile, makefile
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
+          python-version: "3.12"
+      - name: Generar stats.svg (incluye repos privados)
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: python scripts/stats.py stats.svg
+      - name: Guardar si cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git diff --cached --quiet || (git commit -m "Actualizar estadísticas del perfil" && git push)
