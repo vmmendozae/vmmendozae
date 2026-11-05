@@ -5,7 +5,7 @@
 <text x="28" y="74" font-size="14" fill="#92400E">Tokens totales</text>
 <text x="372" y="74" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">4.8B</text>
 <text x="28" y="100" font-size="14" fill="#92400E">Tokens este mes</text>
-<text x="372" y="100" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">221.3M</text>
+<text x="372" y="100" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">223.5M</text>
 <text x="28" y="126" font-size="14" fill="#92400E">Tokens generados por Claude</text>
 <text x="372" y="126" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">9.7M</text>
 <text x="28" y="152" font-size="14" fill="#92400E">Días con Claude Code</text>
