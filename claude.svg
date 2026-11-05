@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="799" height="209" rx="6" fill="#FEF3C7" stroke="#D6A75C"/>
+<line x1="400" y1="24" x2="400" y2="186" stroke="#D6A75C"/>
+<text x="28" y="40" font-size="18" font-weight="700" fill="#9A3412">Claude Code</text>
+<text x="28" y="74" font-size="14" fill="#92400E">Tokens totales</text>
+<text x="372" y="74" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">4.8B</text>
+<text x="28" y="100" font-size="14" fill="#92400E">Tokens este mes</text>
+<text x="372" y="100" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">220.4M</text>
+<text x="28" y="126" font-size="14" fill="#92400E">Tokens generados por Claude</text>
+<text x="372" y="126" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">9.7M</text>
+<text x="28" y="152" font-size="14" fill="#92400E">Días con Claude Code</text>
+<text x="372" y="152" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">33</text>
+<text x="28" y="178" font-size="14" fill="#92400E">Sesiones</text>
+<text x="372" y="178" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">56</text>
+<text x="428" y="40" font-size="18" font-weight="700" fill="#9A3412">Modelos</text>
+<text x="428" y="81" font-size="14" fill="#78350F">Opus 5.5</text>
+<rect x="540" y="70" width="200.0" height="14" rx="3" fill="#C2410C" opacity="1.00"/>
+<text x="748.0" y="81" font-size="13" fill="#92400E">4.4B</text>
+<text x="428" y="111" font-size="14" fill="#78350F">Sonnet 5</text>
+<rect x="540" y="100" width="16.4" height="14" rx="3" fill="#C2410C" opacity="0.82"/>
+<text x="564.4" y="111" font-size="13" fill="#92400E">359M</text>
+<text x="428" y="141" font-size="14" fill="#78350F">Sonnet 4.6</text>
+<rect x="540" y="130" width="0.5" height="14" rx="3" fill="#C2410C" opacity="0.64"/>
+<text x="548.5" y="141" font-size="13" fill="#92400E">10M</text>
+<text x="428" y="171" font-size="14" fill="#78350F">Sonnet 5.5</text>
+<rect x="540" y="160" width="0.2" height="14" rx="3" fill="#C2410C" opacity="0.46"/>
+<text x="548.2" y="171" font-size="13" fill="#92400E">4.5M</text>
+<text x="784" y="198" font-size="10" fill="#92400E" text-anchor="end">Desde 06/05/2026 · tokens de entrada, salida y caché · actualizado 2026-11-05</text>
+</svg>

@@ -34,6 +34,10 @@
 </p>
 
 <p align="center">
+  <img src="./claude.svg" alt="Uso de Claude Code" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=vmmendozae&mode=weekly&locale=es&hide_border=true&background=FEF3C7&ring=C2410C&fire=D97706&currStreakLabel=9A3412&sideLabels=78350F&dates=92400E&currStreakNum=78350F&sideNums=78350F&stroke=D6A75C" alt="Racha" />
 </p>
 
