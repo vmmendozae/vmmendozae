@@ -9,7 +9,6 @@
 <p>
   <a href="https://unergy.io/"><img src="https://img.shields.io/badge/Unergy-unergy.io-B45309?style=for-the-badge&logo=lightning&logoColor=FEF3C7" alt="Unergy" /></a>
   <img src="https://img.shields.io/badge/Medell%C3%ADn-Colombia-9A3412?style=for-the-badge&logo=googlemaps&logoColor=FEF3C7" alt="Medellín" />
-  <img src="https://komarev.com/ghpvc/?username=vmmendozae&style=for-the-badge&color=D97706&label=visitas" alt="Visitas" />
 </p>
 
 </div>
