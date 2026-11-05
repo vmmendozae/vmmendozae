@@ -17,6 +17,9 @@ from html import escape
 
 TOKEN = os.environ["GH_TOKEN"]
 OUT = sys.argv[1] if len(sys.argv) > 1 else "stats.svg"
+# Repos que suman commits pero no lenguajes: su código no es tu trabajo
+# (commits vacíos de GitLab, scripts del perfil).
+NO_LANGUAGES = {"vmmendozae/gitlab-contributions", "vmmendozae/vmmendozae"}
 IGNORED = {"HTML", "CSS", "SCSS", "Shell", "Dockerfile", "Makefile", "PLpgSQL"}
 
 # Paleta cálida, la misma de la tarjeta de racha.
@@ -92,6 +95,8 @@ def collect():
             continue
         commits += n
         with_commits.append(repo)
+        if repo["nameWithOwner"] in NO_LANGUAGES:
+            continue
         edges = [e for e in repo["languages"]["edges"] if e["node"]["name"] not in IGNORED]
         size = sum(e["size"] for e in edges) or 1
         for e in edges:
