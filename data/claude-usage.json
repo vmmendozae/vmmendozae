@@ -401,10 +401,10 @@
  "2026-11-06": {
   "models": {
    "claude-opus-5-5": {
-    "input": 907,
-    "output": 334249,
-    "cache_write": 1929689,
-    "cache_read": 88989571
+    "input": 1328,
+    "output": 458668,
+    "cache_write": 3297966,
+    "cache_read": 142530088
    },
    "claude-sonnet-5-5": {
     "input": 4,
