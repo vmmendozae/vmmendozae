@@ -425,5 +425,39 @@
    }
   },
   "sessions": 1
+ },
+ "2026-11-10": {
+  "models": {
+   "claude-sonnet-5-5": {
+    "input": 4,
+    "output": 44,
+    "cache_write": 45696,
+    "cache_read": 6446
+   },
+   "claude-opus-5-5": {
+    "input": 262,
+    "output": 104617,
+    "cache_write": 302743,
+    "cache_read": 17277787
+   }
+  },
+  "sessions": 4
+ },
+ "2026-11-11": {
+  "models": {
+   "claude-sonnet-5-5": {
+    "input": 4,
+    "output": 40,
+    "cache_write": 11755,
+    "cache_read": 6446
+   },
+   "claude-opus-5-5": {
+    "input": 528,
+    "output": 120150,
+    "cache_write": 741511,
+    "cache_read": 34993116
+   }
+  },
+  "sessions": 4
  }
 }
