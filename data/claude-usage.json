@@ -446,18 +446,35 @@
  "2026-11-11": {
   "models": {
    "claude-sonnet-5-5": {
-    "input": 4,
-    "output": 40,
-    "cache_write": 11755,
-    "cache_read": 6446
+    "input": 6,
+    "output": 63,
+    "cache_write": 15201,
+    "cache_read": 9669
    },
    "claude-opus-5-5": {
-    "input": 528,
-    "output": 120150,
-    "cache_write": 741511,
-    "cache_read": 34993116
+    "input": 2517,
+    "output": 1075943,
+    "cache_write": 3183526,
+    "cache_read": 530219948
+   },
+   "claude-fable-5-2": {
+    "input": 332,
+    "output": 208551,
+    "cache_write": 475563,
+    "cache_read": 49334119
    }
   },
-  "sessions": 4
+  "sessions": 6
+ },
+ "2026-11-12": {
+  "models": {
+   "claude-opus-5-5": {
+    "input": 786,
+    "output": 344481,
+    "cache_write": 1465388,
+    "cache_read": 151790721
+   }
+  },
+  "sessions": 1
  }
 }
