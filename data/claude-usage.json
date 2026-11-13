@@ -469,10 +469,21 @@
  "2026-11-12": {
   "models": {
    "claude-opus-5-5": {
-    "input": 786,
-    "output": 344481,
-    "cache_write": 1465388,
-    "cache_read": 151790721
+    "input": 1245,
+    "output": 522130,
+    "cache_write": 3673211,
+    "cache_read": 287904727
+   }
+  },
+  "sessions": 1
+ },
+ "2026-11-13": {
+  "models": {
+   "claude-opus-5-5": {
+    "input": 340,
+    "output": 110749,
+    "cache_write": 1244810,
+    "cache_read": 73618944
    }
   },
   "sessions": 1
