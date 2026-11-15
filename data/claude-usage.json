@@ -497,10 +497,10 @@
     "cache_read": 3223
    },
    "claude-opus-5-5": {
-    "input": 62,
-    "output": 12763,
-    "cache_write": 48066,
-    "cache_read": 1732717
+    "input": 77,
+    "output": 16872,
+    "cache_write": 110532,
+    "cache_read": 2261769
    }
   },
   "sessions": 2
