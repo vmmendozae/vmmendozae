@@ -504,5 +504,16 @@
    }
   },
   "sessions": 2
+ },
+ "2026-11-16": {
+  "models": {
+   "claude-opus-5-5": {
+    "input": 86,
+    "output": 16855,
+    "cache_write": 114669,
+    "cache_read": 4622845
+   }
+  },
+  "sessions": 1
  }
 }
