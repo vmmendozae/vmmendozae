@@ -530,12 +530,52 @@
  "2026-11-18": {
   "models": {
    "claude-opus-5-5": {
-    "input": 716,
-    "output": 238727,
-    "cache_write": 838994,
-    "cache_read": 126878238
+    "input": 860,
+    "output": 260426,
+    "cache_write": 1545638,
+    "cache_read": 135904086
    }
   },
-  "sessions": 1
+  "sessions": 2
+ },
+ "2026-11-19": {
+  "models": {
+   "claude-opus-5-5": {
+    "input": 1830,
+    "output": 558094,
+    "cache_write": 3110343,
+    "cache_read": 203326332
+   },
+   "claude-sonnet-5-5": {
+    "input": 334,
+    "output": 62443,
+    "cache_write": 435981,
+    "cache_read": 23723863
+   }
+  },
+  "sessions": 10
+ },
+ "2026-11-20": {
+  "models": {
+   "claude-opus-5-5": {
+    "input": 686,
+    "output": 173488,
+    "cache_write": 1452536,
+    "cache_read": 51995272
+   },
+   "claude-sonnet-5-5": {
+    "input": 37,
+    "output": 5306,
+    "cache_write": 97325,
+    "cache_read": 2012012
+   },
+   "claude-haiku-5-5": {
+    "input": 6,
+    "output": 3585,
+    "cache_write": 30413,
+    "cache_read": 10904
+   }
+  },
+  "sessions": 11
  }
 }
