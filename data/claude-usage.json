@@ -588,5 +588,22 @@
    }
   },
   "sessions": 1
+ },
+ "2026-11-23": {
+  "models": {
+   "claude-opus-5-5": {
+    "input": 549,
+    "output": 133415,
+    "cache_write": 1503201,
+    "cache_read": 71459210
+   },
+   "claude-sonnet-5-5": {
+    "input": 2,
+    "output": 25,
+    "cache_write": 4216,
+    "cache_read": 3223
+   }
+  },
+  "sessions": 9
  }
 }
