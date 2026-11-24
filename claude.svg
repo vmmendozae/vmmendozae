@@ -3,27 +3,27 @@
 <line x1="400" y1="24" x2="400" y2="186" stroke="#D6A75C"/>
 <text x="28" y="40" font-size="18" font-weight="700" fill="#9A3412">Claude Code</text>
 <text x="28" y="74" font-size="14" fill="#92400E">Tokens totales</text>
-<text x="372" y="74" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">6.6B</text>
+<text x="372" y="74" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">6.8B</text>
 <text x="28" y="100" font-size="14" fill="#92400E">Tokens este mes</text>
-<text x="372" y="100" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">2B</text>
+<text x="372" y="100" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">2.3B</text>
 <text x="28" y="126" font-size="14" fill="#92400E">Tokens generados por Claude</text>
-<text x="372" y="126" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">14.1M</text>
+<text x="372" y="126" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">14.9M</text>
 <text x="28" y="152" font-size="14" fill="#92400E">Días con Claude Code</text>
-<text x="372" y="152" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">47</text>
+<text x="372" y="152" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">48</text>
 <text x="28" y="178" font-size="14" fill="#92400E">Sesiones</text>
-<text x="372" y="178" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">127</text>
+<text x="372" y="178" font-size="14" font-weight="700" fill="#78350F" text-anchor="end">142</text>
 <text x="428" y="40" font-size="18" font-weight="700" fill="#9A3412">Modelos</text>
 <text x="428" y="81" font-size="14" fill="#78350F">Opus 5.5</text>
 <rect x="540" y="70" width="200.0" height="14" rx="3" fill="#C2410C" opacity="1.00"/>
-<text x="748.0" y="81" font-size="13" fill="#92400E">6.1B</text>
+<text x="748.0" y="81" font-size="13" fill="#92400E">6.4B</text>
 <text x="428" y="111" font-size="14" fill="#78350F">Sonnet 5</text>
-<rect x="540" y="100" width="11.7" height="14" rx="3" fill="#C2410C" opacity="0.82"/>
-<text x="559.7" y="111" font-size="13" fill="#92400E">359M</text>
+<rect x="540" y="100" width="11.3" height="14" rx="3" fill="#C2410C" opacity="0.82"/>
+<text x="559.3" y="111" font-size="13" fill="#92400E">359M</text>
 <text x="428" y="141" font-size="14" fill="#78350F">Fable 5.2</text>
 <rect x="540" y="130" width="1.6" height="14" rx="3" fill="#C2410C" opacity="0.64"/>
 <text x="549.6" y="141" font-size="13" fill="#92400E">50M</text>
 <text x="428" y="171" font-size="14" fill="#78350F">Sonnet 5.5</text>
-<rect x="540" y="160" width="1.1" height="14" rx="3" fill="#C2410C" opacity="0.46"/>
-<text x="549.1" y="171" font-size="13" fill="#92400E">34.7M</text>
-<text x="784" y="198" font-size="10" fill="#92400E" text-anchor="end">Desde 06/05/2026 · tokens de entrada, salida y caché · actualizado 2026-11-23</text>
+<rect x="540" y="160" width="1.2" height="14" rx="3" fill="#C2410C" opacity="0.46"/>
+<text x="549.2" y="171" font-size="13" fill="#92400E">38.5M</text>
+<text x="784" y="198" font-size="10" fill="#92400E" text-anchor="end">Desde 06/05/2026 · tokens de entrada, salida y caché · actualizado 2026-11-24</text>
 </svg>
