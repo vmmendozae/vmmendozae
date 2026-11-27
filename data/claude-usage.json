@@ -655,12 +655,29 @@
  "2026-11-26": {
   "models": {
    "claude-opus-5-5": {
-    "input": 374,
-    "output": 85020,
-    "cache_write": 2066202,
-    "cache_read": 44226159
+    "input": 744,
+    "output": 214857,
+    "cache_write": 3131874,
+    "cache_read": 69070233
+   },
+   "claude-sonnet-5-5": {
+    "input": 87,
+    "output": 13453,
+    "cache_write": 101658,
+    "cache_read": 5479332
    }
   },
-  "sessions": 9
+  "sessions": 15
+ },
+ "2026-11-27": {
+  "models": {
+   "claude-opus-5-5": {
+    "input": 309,
+    "output": 64596,
+    "cache_write": 904497,
+    "cache_read": 22124049
+   }
+  },
+  "sessions": 6
  }
 }
